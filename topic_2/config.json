@@ -1,0 +1,7 @@
+{
+    "AppConfig": {
+        "setting2": "value2",
+        "setting3": "value3",
+        "setting1": "new_value"
+    }
+}
